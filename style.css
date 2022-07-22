@@ -1,0 +1,47 @@
+
+.car{
+
+    width: 400px;
+    height: 400px;
+    display: block;
+    
+ }
+ p {
+    color: blue;
+ }
+table{
+    background-color: aquamarine;
+}
+li{
+    list-style: none;
+}
+p{
+    font-size: 25px;
+}
+form {
+    text-align: center;
+}
+body{
+    background-color:salmon;
+    }
+    h1 { 
+        color:rgb(121, 17, 218);
+        margin-right: 60px;
+    }
+    p.one {
+        border-style: solid;
+        border-style: 6px;
+    }
+    p.two {
+        border-style: dotted;
+        border-width: medium;
+    }
+    #box {
+        background-color: rgb(113, 139, 130);
+        width: 300px;
+        border:20p;
+        padding: 40px;
+        margin: 40px;
+    }
+    
+        
